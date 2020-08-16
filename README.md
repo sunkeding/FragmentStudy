@@ -80,9 +80,3 @@ https://github.com/sunkeding/FragmentStudy
 - [官方文档](https://developer.android.com/guide/components/fragments?hl=zh-cn#top_of_page)
 - [Complete Android Fragment & Activity Lifecycle](https://github.com/xxv/android-lifecycle/)
 
-
-
-
-
-
-
